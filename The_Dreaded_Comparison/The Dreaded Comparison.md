@@ -11,9 +11,45 @@ racism: 1. a belief that human races have distinctive characteristics that deter
 
 speciesmism: 1. a belief that different species of animals are signifcatnly different than one another in their capacities to feel pleasure and pain and live an autonomous existence, usually involving the idea that one's own species has the right to rule and use others. 2. a policy of enforcing such asserted right. 3. a system of government and society based upon in.
 
-Chapter 1:  An Historical Understanding
+[Image 1:
+Top caption: A slave auction in Virginia 1861
+Description: 3 black slaves, one holding an infant, are being auctioned off to a large group of white people in masculine dress who have various levels of disinterest in the proceedings. Two more slaves are awaiting auction near the stand.
 
-Comparing specieism with racism? At first glance, many people might feel that it is insulting to compare the suffering of non-human animals to that of humans. In fact, in our society, comparison to an animal has come to be a slur.
+Bottom caption: The cattle market in Chicago, 1868
+Description: Cows in pens meet the horizon as an auctioner shows off a cow to a small group of people in masculine clothing.]
+
+SYMPATHY
+
+I know what the caged bird feels, alas!
+When the sun is bright on the upland slopes;   
+When the wind stirs soft through the springing grass,   
+And the river flows like a stream of glass;
+When the first bird sings and the first bud opes,   
+And the faint perfume from its chalice steals—
+I know what the caged bird feels!
+
+I know why the caged bird beats his wing
+Till its blood is red on the cruel bars;   
+For he must fly back to his perch and cling   
+When he fain would be on the bough a-swing;
+And a pain still throbs in the old, old scars   
+And they pulse again with a keener sting—
+I know why he beats his wing!
+
+I know why the caged bird sings, ah me,
+When his wing is bruised and his bosom sore,—
+When he beats his bars and he would be free;
+It is not a carol of joy or glee,
+But a prayer that he sends from his heart’s deep core,   
+But a plea, that upward to Heaven he flings—
+I know why the caged bird sings!
+
+- Paul Laurence Dunbar, (1872-1906)
+son of two runaway slaves
+
+Chapter Title: An Historical Understanding
+
+Comparing speciedism with racism? At first glance, many people might feel that it is insulting to compare the suffering of non-human animals to that of humans. In fact, in our society, comparison to an animal has come to be a slur.
 
 Why is it an insult for anyone to be compared to an animal? In many culutres, such a comparison was an honor. In Native American cultures, for example, individuals adopted the names of admired animals, and had spirit guides - in animal form - who served both as teachers and escorts into the realm of the spirit world. Names such as sitting Bull, Running Deer, and Hawkeye are familiar to us, expressive of the admiration Native Americans had for the animals with whom they shared both the earth and the afterlife. Native Americans, Ancient Egyptians, some African tribes, and many other ancient and aboriginal cultures the world over have worshipped various animals as gods or messengers to god. So how is that we find ourselves in a time when comparison to a non-human animal has ceased to be an honor and is instead hurled as an insult?
 
@@ -87,3 +123,64 @@ Yet even if some vast, undeniable distinction between humans and animals could f
 
 This is not intended to oversimplify matters and to imply that the oppressions experienced by blacks and animals have taken identical forms. A complex web of social, political, and economic factors sustained slavery and made possible the life of a slave as it was known. This book in no way attempts to make the case that these factors are the same for animals; there are distinct social, political, and economic factors which create and support the subjugation of animals, as well as differences between the possible manners in which blacks and animals could respond to their respective enslavements. But, as divergent as the cruelties and the supporting systems of oppresion may be, there are commonalities between them. They share the same basic essence, they are built around the same basic relationship - that between oppressor and oppressed. 
 
+
+[Image 2:
+Left Caption: Branding a calf
+Left Description: A calf is violently held down by two people, and appears to be in great distress, with their mouth open and eyes wide as they are likely in pain and scared. Two others assist the branding. Smoke from the branding is obscuring some details.
+
+Right Caption: Branding a captured woman
+Right Description: The woman at the center of the picture has been stripped bare to the chest. ]
+
+So, even though we may think of the experiences of black people in this country as being unique - as are, really, the experiences and reactions of every individual - there are many disturbing similarities between their treatment at the hands of white people in the United States and the treatment of animals at the hands of a large sector of the American Population. Indeed, just as humans are oppressed the world over, animals receive poor treatment in nearly every human culture on earth.
+
+Further, any oppression helps to support other forms of domination. This is why it is vital to link oppressions in our minds, to look for the common, shared aspects, and work against them as one, rather than than prioritizing victims' suffering - (what we have already identified as "either-or" pitfall). For when we prioritize we are in effect becoming one with the "master." We are deciding that one individual or group is more important than another, deciding that one individual's pain is less important than that of the next. A common result of prioritization is infighting among the oppressed or defenders of the oppressed, doing tragically little to upset the very foundations of cruelty.
+
+Comparing the suffering of animals to that of blacks (or any other oppressed group) is offessive only to the speciesist: one who has embraced the false notions of what animals are like. Those who are offended by comparison to a fellow sufferer have unquestioningly accepted the biased worldview presented by the masters. To deny our similarities to animals is to deny and undermine our own power. It is to continue actively struggling to prove to our masters, past or present, that we are similar to those who have abused us, rather than to our fellow victims, those whom our masters have also victimized.
+
+Let us remember that to those with a master mentality, there is often very little difference between one victim and the next. When both blacks and animals are viewed as being "oppressible," the cruelties perpetrated upon them take similar forms. Later we will explore whether these similarities are due to mere chance or to something which operates deep in the minds of the masters. In the meantime, let us note that the domination of animals, which was being honed to a clumsy science centuries before black slavery in America began, was in many cases used as a prototype for the subjugation of blacks. So observed Keith Thomas in his important study Man and the Natural World:
+
+"Once perceived as beasts, people were liable to be treated accordingly. The ethic of human domination removed animals from the sphere of human concern. But it also legitimized the ill-treatment of humans who were in a supposedly animal condition. In the colonies, slavery, with its markets, its brandings and its constant labor, was one way of dealing with men thought to be beastly. The Portuguese, reported one English traveler, marked slaves 'as we do sheep, with a hot iron,' and at the slave market at Constantinople, Moryson saw the buyers taking their slaves indoors to inspect them naked, handling them 'as we handle beasts, to know their fatness and strength.'"[18]
+
+The suffering animals currently endure at the hands of human beings in laboratories, on "factory farms," as pets, and in the wild, sadly parallels that endured by black people in the antebellum United States and during the lingering postbellum period. The parallels of experience are numerous. Both humans and animals share the ability to suffer from restricted freedom of movement, from the loss of social freedom, and to experience pain at the loss of a loved one. Both groups suffer or suffered from their common capacity to be terrified by being hunted, tormented, or injured. Both have been "objectified," treated as property rather than as feeling, self-directed individuals. And both blacks, under the system of slavery, and animals were driven to a state of total psychic and physical defeat, as a result of all or some of the variables mentioned above. (With animals, of course, this continues today in its most extreme form.)
+
+From all of this we see that the liberation of animals, while a pressing and worthy goal in its own right, is not of importance _only_ to non-human animals. While people are no longer branded, inspected at auction, or displayed in zoos, subtler forms of oppression are still in operation which have their counterparts in animals' slavery. Advances toward releasing animals from our domination and control of their lives will also serve to lessen the oppression of blacks and others who suffer under the weight of someone else's power. By eliminating the oppression of animals from the fabric of our culture, we begin to undermine some of the psychological structures inherent in a society which seems to create and foster masters. With a philosophy of universal respect for other's lives, treating anyone - human or non-human - in a cruel manner begins to be unthinkable.
+
+The views presented in this book of such eminent thinkers, writers, and activists as Frederick Douglass, Harriet Beecher Stowe, Richard Wright, Paul Lawrence Dunbar, and many others, show us that they were acutely aware of the similarities between human and animal slavery. Let us follow their example and being to reject oppression in all its forms.
+
+"[Slaves] have been treated by the law upon the same footing as in England, for example, the ... animals are still. The day may come when the rest of animal creation may acquire those rights which could never have been withholden from them but by the hand of tyranny. [Some] have already discovered that the blackness of skin is no reason why a human being should be abandoned without redress to the caprice of a tormentor. It may come one day to be recognized, that the number of legs, the villosity of the skin, or the termination of the _of sacrum_, are reasons equally insufficient for abandoning a sensitive being to the same fate ... The question is not, Can they _reason_? nor, Can they _talk_? but, Can they _suffer_?" - Jeremy Bentham, _The Principles of Morals and Legislation_, 1789
+
+Chapter Title: Oppression in Language and Literature
+
+"In dem days ole Brer Dog wuz e'en 'bout like he is dese days, scratcin' fer fleas en growlin' over his vittles stidder sayin' grace, en buryin' de bones w'en he had one too many. He wuz des like he is now, 'ceppin' dat he wuz wile. He galloped wid Brer Fox, en loped wid Brer Wolf, en cantered wid Brer Loon. He went all de gaits, en he had des ez good a time ez any un um en des ez bad a time." - Joel Chandler Harris, "Why Mr. Dog is Time," from _Nights with Uncle Remus: Myths and Legends of the Old Plantation_, 1883
+
+Lasting testimony to the severity of white oppression of blacks can be found in American Literature. Not surprisingly, this literature also preserves tangible evidence of the intermingling, in the minds of some whites, of the two groups with which we are here concerned: blacks and non-human animals.
+
+Because society's opinion of animals was so low, racist authors and anti-abolitionists propagandized against blacks by comparing them to negative stereotypes of non-human animals. Even today, we are still familiar with some of the negatively-charged animal names black people have been called: _buck, fox, monkey, ape_, and _coon_ - imbued with none of the respect with which Native Americans gave to the use of animal names.
+
+"The Brute Negro" is one of seven stereotypes of black people found in American literature, as identified by Sterling Brown in his essay "Negro Character as Seen by White Authors." One of the most blatant ironies of these comparisons is that this stereotyping of blacks rests upon sterotypes of animals which are false in their own right. Reality was blindly ignored by these authors as they churned out banalities of savage apes and lewd, promiscuous beasts. As could be expected, the books made no mention of the very real and widespread practices of rape and brutalization of slaves by slave-owners. Some authors, such as H.R. Helper in his book _Nojuque_ (1867), set up "black" and "beastly" as exact synonyms. In his book _The Negro A Beast_ (1900), a racist theological tract, author Chas. Carrol declared, "All Scientific Investigation of the Subject Proves the Negro to Be An Ape." (This, of course, only echoed the sentiments of the racist contingency of scientists, such as Darwin's contemporary A.R. Wallace, who concluded that "natural selection could only have endowed the savage with a brain a little superior to that of an ape."[19])
+
+Stereotypes of the 'brute Negro' in popular literature during the antebellum period are relatively rare because, explains Brown,
+
+"the pro-slavery authors were anxious to prove that slavery had been a benefit to the Negro by removing him from savagery to Christianity ... There were references to vicious criminal Negroes in fiction (vicious and criminal being synonymous to discontented and refractory), but these were considered as exceptional cases of half-wits astray by abolitionists.
+
+Authors stressing the mutual affection between the races looked upon the Negro as a docile mastiff. [20]"
+
+With the Reconstruction, however, empancipation released (into literature and other forms of propaganda) the ferocity of "'Damyanks', carpetbaggers, scalawags, and New England schoolmarms", notes Brown, "affected him with rabies." [21]
+
+Thomas Dixon, another writer of what Brown terms "Ku Klux Klan fiction," is responsible for such works as _The Clansman_ and _The Leopard's Spots_, in which are to be found such lurid chapter titles as "The Black Peril," "The Unspoken Terror," "A Thousand Legged Beast," and "The Hunt for the Animal." Brow's study demonstrates how Dixon's popular books helped to firmly fix the stereotype of the emancipated "black beast" in the minds of the masses:
+
+"The stock Negro in Dixon's books, unless the shuffling hat-in-hand servitor, is a gorilla-like imbecile, who "springs like a tiger" and has the "black claws of a beast." In both books there is a terrible rape, and a glorious ride of the Knights on a Holy Crusade to avenge Southern civilzation. Dixon enables his white geniuses to discover the identity of the rapist by using "a microscope of sufficient power (to) reveal on the retina of the dead eyes the image of this devil as if etched there by fire." ... The doctor sees the "bestial figure of a negro - his huge black hand plainly defined ... It was Gus." Will the wonders of science never cease? But perhaps, after all, Negroes have been convicted on even flimsier evidence." [22]
+
+Through his analysis of contemporary popular literature, Brown observed the metamorphosis which occurred in people's minds in reaction to the transition of blacks from slaves to free individuals. When the person in question was still a slave - a "good slave" mind you - he was portrayed, in Brown's words, as a "docile mastiff." When no longer enslaved, authors turned him into a "mad dog." Writing further, this time citing the work of Thomas Nelson Page, Brown comments that when "in their place, loyall serving and worshipping ole Marse," slaves were portrayed as "admirable creatures, but in freedom they are beasts." [23]
+
+[Image 3: Left, a black person, presumably enslaved, who is wearing a metal mask that blocks all but their eyes and nose holes. Right: A drawing of a horse, who is wearing a mask that blocks blocks all but access to their mouth, eyes, and has slots for their ears.]
+
+We don't even need to invent a metaphor to see how these attitudes relate to non-human animals; animals are _already used as the metaphor_. Brown's "mastiffs," "mad dogs," and "gorilla-like imbeciles" reveal not only the predilications of the authors whose work he critiques, but of Brown himself. Surely the sensitivity and intelligence of the gorilla Koko - one of the few gorillas who has come to be known as an individual person - dispels the long-held myth of the stupidity and violence of these magnificent beings. Yet in seeing the comparisons of blacks to animals that were so prevelant in the period literature of this study, Brown accepted and, through his response, subsequently strenghtened the the negative views about animals held by racist authors.
+
+So "beastly" are animals considered, that to be like one implies the worst, that you are bad. It would logically follow that a person who is unlike an animal must by definition be good. First-century Christian philospher Saint Augustine had already set the trend when he wrote "For so excellent is a man in comparison with a beast, that man's vice is beast's nature" [24] Brown's indignation at these offensive books blinded him to the fellow victims of their propaganda; in effect he responds by saying "We're nothing like those lowly beasts."
+
+We've seen how these concepts affected humans; we need only to turn the metaphor on its head to see how animals are affected. When obedient and subservient, an animal is a loyal companion, a "good slave." When independent, an animal becomes suddenly transformed in our eyes into an uncontrollable beast. (Signfificantly, the words _black beast_ translate into Frenche as _bête_[animal] _noir_ [black], a term meaning _nemesis_.) Think of the stories we were raised with, stories of "Big Bad Wolves" who prey on the innocent, silly, _domesticated_ (and therefore good) piglets. Stories of "Lions and Tigers and Bears" who in their wild and _uncontrolled_ state, seem to live only to single-mindedly lunge at you from behind every tree.
+
+Upon closer examination, we find the thoughts and language of oppression to be present not just in children's stories and other literature, but woven into the very fabric of our culture. For example: think of the term we use for the domestication of a wild horse: "to _break_ a horse." This has quite a literal meaning, for when we tame a horse, we actually do _break_ her. We break her spirit, bend her to our will, make her a subordinate and subservient servant. In the antebellum South, there were men called "n----- breakers," to whom "troublesome," "uppity" slaves were sent. Frederick Douglass was, in fact, sent to such a man. [transcriber's note - the racist slur is spelled out in the text, but I feel nothing is lost by refusing to type it.]
+
+Language, along with the written word, serves to perpetuate and reinforce prejudicial attitudes prevalent in our culture. And indeed, our language is deeply imbued with the terminology of the master's perspective. Yet we must take responsibility: ultimately, we create language, it does not create us. In the face of a culture rife with violence, even a wordless conviction about another way to interact with others still speaks eloquently.
